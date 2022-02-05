@@ -1,0 +1,57 @@
+{
+    "food-items": [
+    {
+        "id": 1,
+        "name": "Pizza",
+        "img": "pizza.png",
+        "price": 10,
+        "inStock": false
+    },
+    {
+        "id": 2,
+        "name": "Fruits",
+        "img": "fruits.png",
+        "price": 12,
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "name": "Snacks",
+        "img": "nachos.png",
+        "price": 5,
+        "inStock": false
+    },
+    {
+        "id": 4,
+        "name": "Veggies",
+        "img": "salad.png",
+        "price": 15,
+        "inStock": false
+    },
+    {
+        "id": 5,
+        "name": "Hotdog",
+        "img": "hotdog.png",
+        "price": 12,
+        "inStock": false
+    },
+    {
+        "id": 6,
+        "name": "Burger",
+        "img": "burger.png",
+        "price": 12,
+        "inStock": false
+    },
+    {
+        "id": 7,
+        "name": "Drink",
+        "img": "soda.png",
+        "price": 5,
+        "inStock": false
+    }
+],
+    "basket": {
+    "amount": 2,
+        "sum": 10
+}
+}
